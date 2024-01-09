@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuActualizar"
+        android:title="Actualizar"/>
+    <item
+        android:id="@+id/menuInfo"
+        android:title="Informacion"/>
+
+    <!-- Menú de Filtro -->
+    <item
+        android:id="@+id/menuFiltrar"
+        android:title="Filtrar">
+        <menu>
+            <!-- Submenú para filtrar por precio de menor a mayor -->
+            <item
+                android:id="@+id/menuFiltrarMenorMayor"
+                android:title="Menor a Mayor"/>
+
+            <!-- Submenú para filtrar por precio de mayor a menor -->
+            <item
+                android:id="@+id/menuFiltrarMayorMenor"
+                android:title="Mayor a Menor"/>
+
+            <!-- Submenú para filtrar de la A a la Z -->
+            <item
+                android:id="@+id/menuFiltrarAZ"
+                android:title="A - Z"/>
+
+            <!-- Submenú para filtrar de la Z a la A -->
+            <item
+                android:id="@+id/menuFiltrarZA"
+                android:title="Z - A"/>
+            <!-- Submenú para quitar filtros -->
+            <item
+                android:id="@+id/menuQuitarFiltros"
+                android:title="Quitar Filtros"/>
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/menuCerrarSesion"
+        android:title="Cerrar sesión"/>
+</menu>

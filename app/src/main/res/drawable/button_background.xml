@@ -1,0 +1,20 @@
+<!-- button_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Estado presionado -->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#F0F8FF" /> <!-- Color más oscuro cuando presionado -->
+            <corners android:radius="8dp" />  <!-- Radio de las esquinas -->
+        </shape>
+    </item>
+
+    <!-- Estado predeterminado -->
+    <item>
+        <shape>
+            <solid android:color="#F0F8FF" /> <!-- Color predeterminado -->
+            <corners android:radius="8dp" />  <!-- Radio de las esquinas -->
+        </shape>
+    </item>
+
+</selector>

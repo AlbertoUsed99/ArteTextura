@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ArteTextura" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#004884</item>
+        <item name="colorPrimaryVariant">#00335d</item>
+        <item name="colorOnPrimary">#FF000000</item> <!-- Texto en negro sobre el color primario -->
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#002d4f</item>
+        <item name="colorSecondaryVariant">#00203a</item>
+        <item name="colorOnSecondary">#FF000000</item> <!-- Texto en negro sobre el color secundario -->
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#00335d</item>
+
+        <!-- Asegurarse de que los textos sean negros en ambos modos -->
+        <item name="android:textColorPrimary">#FF000000</item> <!-- Texto primario siempre en negro -->
+        <item name="android:textColorSecondary">#FF000000</item> <!-- Texto secundario siempre en negro -->
+
+        <!-- Colores de texto específicos para los campos de texto -->
+        <item name="android:editTextColor">#FF000000</item> <!-- Color de texto para EditText -->
+        <item name="android:textColorHint">#FF000000</item> <!-- Color de texto de sugerencia/hint para EditText -->
+    </style>
+</resources>

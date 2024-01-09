@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439645405316",
+    "project_id": "bdartesania-4311e",
+    "storage_bucket": "bdartesania-4311e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439645405316:android:d7f694282a17d737ef02d1",
+        "android_client_info": {
+          "package_name": "com.example.artetextura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4arbcLpJZhNllA1CbLX3wVMMjQNlArY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

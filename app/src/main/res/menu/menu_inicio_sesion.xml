@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuInfo"
+        android:title="Informacion"/>
+    <item
+        android:id="@+id/borrar"
+        android:title="Limpiar campos"/>
+    <item
+        android:id="@+id/menuCerrarApp"
+        android:title="Cerrar aplicación"/>
+</menu>

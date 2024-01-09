@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_color">#004884</color> <!-- Azul oscuro para botones e interactivos -->
+    <color name="button_color_dark">#00335d</color> <!-- Variante más oscura para efectos de presionado -->
+    <color name="text_on_button_color">#FFFFFF</color> <!-- Color de texto para usar sobre botones oscuros -->
+
+    <!-- Otros colores de la interfaz -->
+    <color name="background_light">#f1f3ff</color> <!-- Fondo claro -->
+
+    <!-- Colores de texto -->
+    <color name="primary_text">#FF000000</color> <!-- Texto primario en negro -->
+    <color name="secondary_text">#FF000000</color> <!-- Texto secundario también en negro -->
+
+    <!-- ... tus otros colores ... -->
+</resources>

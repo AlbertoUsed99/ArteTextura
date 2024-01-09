@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Otras cadenas de recursos existentes -->
+
+    <!-- Descripción de la imagen del producto -->
+    <string name="product_image">Imagen del producto</string>
+</resources>

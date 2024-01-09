@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ArteTextura" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#004884</item> <!-- Azul oscuro para la barra de acción principal -->
+        <item name="colorPrimaryVariant">#00335d</item> <!-- Variante más oscura del azul oscuro -->
+        <item name="colorOnPrimary">#FF000000</item> <!-- Color para texto e íconos sobre colorPrimary -->
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#002d4f</item> <!-- Un tono más oscuro para la barra de acción secundaria -->
+        <item name="colorSecondaryVariant">#00203a</item> <!-- Variante más oscura para la barra de acción secundaria -->
+        <item name="colorOnSecondary">#FFFFFF</item> <!-- Color para texto e íconos sobre colorSecondary -->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#00335d</item> <!-- Color de la barra de estado -->
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

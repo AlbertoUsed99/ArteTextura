@@ -1,0 +1,21 @@
+<!-- gradient_background_with_image.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fondo de gradiente -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#87CEEB"
+            android:endColor="#4169E1"
+            android:angle="270"/>
+        </shape>
+    </item>
+
+    <!-- Imagen -->
+    <item>
+        <bitmap
+            android:src="@drawable/fondo_login"
+        android:gravity="center"/>
+    </item>
+
+</layer-list>
